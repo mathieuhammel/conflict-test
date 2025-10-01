@@ -1,2 +1,2 @@
 # conflict-test
-git/github - quest 5
+This is a Git conflict test
